@@ -4,5 +4,9 @@
   "main": "dist.js",
   "dependencies": {
     "debug": "^2.6.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/impasse/lighthouse-logger.git"
   }
 }
